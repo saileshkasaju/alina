@@ -14,7 +14,8 @@ tags:
   - Volunteer
   - volunteering
 ---
-Kathmandu went from lively and vibrant city to a complete standstill after government enforced lockdown at end of March 2020 in the face of global pandemic. I completed my tenure at Oxfam in Nepal at the same time and was searching for a job. While applying for jobs, I stumbled upon online volunteering opportunities at United Nations. I immediately ventured to carry out some volunteering activities during my free time. 
+
+Kathmandu went from lively and vibrant city to a complete standstill after government enforced lockdown at end of March 2020 in the face of global pandemic. I completed my tenure at Oxfam in Nepal at the same time and was searching for a job. While applying for jobs, I stumbled upon online volunteering opportunities at United Nations. I immediately ventured to carry out some volunteering activities during my free time.
 
 ## Motivation
 
