@@ -40,7 +40,7 @@ const Author = ({ author, isIndex }: Props) => (
     <p className={styles['author__subtitle']}>{author.bio}</p>
     <h2 className={styles['author__title']}>
       <Link className={styles['author__title-link']} to="/" id="add-button">
-        Add Sudin
+        Add Me
       </Link>
     </h2>
   </div>

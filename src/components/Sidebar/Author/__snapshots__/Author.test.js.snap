@@ -38,7 +38,7 @@ exports[`Author renders correctly 1`] = `
       href="/"
       id="add-button"
     >
-      Add Sudin
+      Add Me
     </a>
   </h2>
 </div>
